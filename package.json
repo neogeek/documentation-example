@@ -1,0 +1,12 @@
+{
+  "title": "documentation-example",
+  "description": "A sample repository with tools to auto generate documentation and test documentation coverage.",
+  "scripts": {
+  	"test": "make test"
+  },
+  "devDependencies": {
+    "doxdox": "0.1.11",
+    "inchjs": "0.4.1"
+  },
+  "private": true
+}
